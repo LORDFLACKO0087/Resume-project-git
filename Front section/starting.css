@@ -1,0 +1,10 @@
+ body{
+    background-color: #000000ea;
+}
+
+#my-image{
+    height:700px;
+    width: 6px;
+    margin-bottom: 100px;
+    margin-left: 10px;
+}
